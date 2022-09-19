@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.DS_Store
+
+.env
+
+notasTech.txt
+
+package-lock.json
+package.json
+tsconfig.json
